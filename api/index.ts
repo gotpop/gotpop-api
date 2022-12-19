@@ -14,7 +14,5 @@ export default (req: VercelRequest, res: VercelResponse) => {
     )
 
 
-    return res.json({
-        data: shopItems
-    });
+    return res.json(shopItems);
 };
