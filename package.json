@@ -1,7 +1,7 @@
 {
   "name": "gotpop-api",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "api/index.js",
   "license": "MIT",
     "scripts": {
     "start": "vercel dev",
